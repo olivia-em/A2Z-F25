@@ -80,13 +80,14 @@ Reflect on your process of word counting and consider the following questions (d
 
 ### Add a link to your API / data source here
 
-- [Data Source](url)
+- [Iliad, ALexander Pope - PG](https://www.gutenberg.org/ebooks/2199)
 
 ### Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [what is the title of your assignment?](url)
+- Olivia - [cursedVisions](https://www.notion.so/CompText-2-Word-Frequencies-26dd586d7a8d804fae7ec9810dce54fb?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
